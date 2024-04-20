@@ -2,7 +2,7 @@
 
 # Define Variables
 namespace="sre"
-deployment_name="sre"
+deployment_name="swype-app"
 max_restarts=3
 
 # Start an Infinite Loop
